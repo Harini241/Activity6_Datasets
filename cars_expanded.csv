@@ -1,21 +1,41 @@
-Horsepower,Miles_per_Gallon,Origin
-130,18,USA
-165,15,USA
-150,18,USA
-140,16,USA
-198,15,USA
-220,14,USA
-215,14,USA
-225,14,USA
-190,15,USA
-170,15,USA
-95,30,Japan
-88,33,Japan
-100,32,Japan
-105,28,Japan
-97,31,Japan
-113,27,Japan
-90,35,Europe
-110,26,Europe
-85,36,Europe
-120,25,Europe
+Horsepower	Miles_per_Gallon	Origin
+130	18	USA
+165	15	USA
+150	18	USA
+140	16	USA
+198	15	USA
+220	14	USA
+215	14	USA
+225	14	USA
+190	15	USA
+170	15	USA
+95	30	Japan
+88	33	Japan
+100	32	Japan
+105	28	Japan
+97	31	Japan
+113	27	Japan
+90	35	Japan
+110	26	Japan
+85	36	Japan
+120	25	Japan
+75	40	Europe
+80	38	Europe
+60	42	Europe
+66	41	Europe
+70	39	Europe
+82	37	Europe
+76	36	Europe
+65	43	Europe
+62	40	Europe
+78	38	Europe
+155	13	USA
+160	14	USA
+142	15	USA
+134	14	USA
+172	13	USA
+185	12	USA
+193	11	USA
+210	10	USA
+205	9	USA
+199	8	USA
